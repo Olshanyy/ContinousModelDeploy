@@ -4,4 +4,4 @@ Will update details post the session - In the session
 UPdate to demo in AIEngineering channel
 
 Trigger test
-try 6
+try 7
